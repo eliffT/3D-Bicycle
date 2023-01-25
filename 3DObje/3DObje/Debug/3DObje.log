@@ -1,0 +1,8 @@
+﻿  Bisiklet.cpp
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(13,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(20,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(81,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(91,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(93,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\3DObje\Bisiklet.cpp(106,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  3DObje.vcxproj -> C:\Users\eliff\Desktop\Bilgisayar Grafikleri\3DObje\Debug\3DObje.exe
